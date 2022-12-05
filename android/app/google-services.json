@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156604589302",
+    "project_id": "zylu-test",
+    "storage_bucket": "zylu-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156604589302:android:51dcea6eb814ed46a678d7",
+        "android_client_info": {
+          "package_name": "com.shubham23mamgain.zylu_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156604589302-iuegu27d0gbrb1m6ldec5hjbqtkbjjmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0uzbCxwyUwD5RGYhbxKNXJSR78Y0XLsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156604589302-iuegu27d0gbrb1m6ldec5hjbqtkbjjmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
